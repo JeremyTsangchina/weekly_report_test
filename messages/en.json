@@ -17,10 +17,10 @@
     "privacyPolicy1": "关于隐私这里可以看看",
     "privacyPolicy2": "《隐私声明》",
     "paragraphForm": "段落",
-    "paragraphFormPrompt": "我有一位深爱的对象，我们非常相爱，请你<|start|>与<|end|>之间的关键信息，以充满爱意、充满温暖的形式帮我些一小段话。\n\n<|start|>",
-    "prompt": "请帮我把以下的内容填充为一篇充满爱意的情话,用 markdown 格式以日常沟通对话的形式输出:",
+    "paragraphFormPrompt": "我有一位深爱的对象，我们非常相爱，请你<|start|>与<|end|>之间的关键信息，以充满爱意、充满温暖或则调皮的的形式帮我些一小段话。\n\n<|start|>",
+    "prompt": "请帮我把以下的内容填充为一篇充满爱意的情话,用 markdown 格式以口语化的形式，带一些调皮的方式输出:",
     "outlineForm": "大纲",
-    "outlineFormPrompt": "我有一位深爱的对象，我们非常相爱，请你<|start|>与<|end|>之间的关键信息，以充满爱意、充满温暖的形式帮我些一小段话。\n\n<|start|>",
+    "outlineFormPrompt": "我有一位深爱的对象，我们非常相爱，请你<|start|>与<|end|>之间的关键信息，以充满爱意、充满温暖或则调皮的的形式帮我些一小段话。\n\n<|start|>",
     "pasteButton": "粘贴",
     "clearButton": "清空",
     "notice":"因此网站的使用人数以不可思议的速度飙升，作者无力承担随之而来的运营成本，为了能和大家继续交流，可以扫描作者二维码随心的投个币，感谢！"
