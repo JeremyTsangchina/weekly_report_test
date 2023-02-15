@@ -3,7 +3,7 @@
 
 This project generate weekly report with simple sentence for you using AI.
 
-[![Weekly Report](./public/screenshot.jpg)](https://weeklyreport.avemaria.fun/zh)
+
 
 ## How it works
 
@@ -29,6 +29,7 @@ NEXT_PUBLIC_USE_USER_KEY = false
 OPENAI_MODEL = text-davinci-003
 
 <!-- https://www.seotraininglondon.org/gpt3-business-email-generator/ -->
+<!-- [![Weekly Report](./public/screenshot.jpg)](https://weeklyreport.avemaria.fun/zh) -->
 
 ## Credits
 
