@@ -225,7 +225,7 @@ const Home: NextPage = () => {
               )}
             <div>
                 <p className="text-left font-medium items-center justify-center text-center">
-                    {t('step3')}{" "}
+                    {t('step3')}{" "}</p>
                   <Image
                     src="/QR.png"
                     width={100}
@@ -233,7 +233,7 @@ const Home: NextPage = () => {
                     alt="1 icon"
                     className="mb-5 xs:mb-0"
                    />
-                 </p>
+
               </div>
             </motion.div>
           </AnimatePresence>
