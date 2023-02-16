@@ -231,9 +231,9 @@ const Home: NextPage = () => {
             </div>
               <div className="flex mt-10 items-center space-x-3">
                 <Image
-                  src="/1-black.png"
-                  width={30}
-                  height={30}
+                  src="/QR.png"
+                  width={100}
+                  height={100}
                   alt="1 icon"
                   className="mb-5 xs:mb-0"
                  />
