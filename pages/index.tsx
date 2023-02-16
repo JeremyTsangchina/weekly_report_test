@@ -225,8 +225,8 @@ const Home: NextPage = () => {
               )}
 
             <div>
-                <p className="text-left font-medium">
-                    {t('step1')}{" "}
+                <p className="text-left font-medium items-center justify-center text-center">
+                    {t('step3')}{" "}
                 </p>
             </div>
               <div className="flex mt-10 items-center space-x-3">
