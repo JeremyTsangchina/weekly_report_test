@@ -10,7 +10,7 @@
     "openaiApiKeyPlaceholder": "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "step1": " 根据产品特点，生成爆款笔记",
     "helpPageLink": "(点击这里查看教程)",
-    "placeholder": "种草类、教程类、评测类：可以简单的描述一些产品功能、亮点、成分、人群、使用感受、贴士等\n服务宣传、企业宣传类：服务内容、范围、行业、亮点、优势等\n个人vlog类：简洁的给出基础文案即可\n",
+    "placeholder": "种草、教程、评测类：\n可简单的描述一些产品功能、亮点、成分、使用感受等\n服务、企业宣传类：服务内容、范围、行业、亮点、优势等\n个人vlog类：简洁的给出基础文案即可\n",
     "step2": "选择输出结果的形式。",
     "simplifierButton": "立即生成",
     "simplifiedContent": "以下內容僅供參考，拿回去自己润色下就更棒了",
