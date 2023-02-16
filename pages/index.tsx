@@ -223,22 +223,18 @@ const Home: NextPage = () => {
                   </div>
                 </>
               )}
-
             <div>
                 <p className="text-left font-medium items-center justify-center text-center">
                     {t('step3')}{" "}
-                </p>
-            </div>
-              <div className="flex mt-10 items-center justify-center text-center space-x-3">
-                <Image
-                  src="/QR.png"
-                  width={100}
-                  height={100}
-                  alt="1 icon"
-                  className="mb-5 xs:mb-0"
-                 />
+                  <Image
+                    src="/QR.png"
+                    width={100}
+                    height={100}
+                    alt="1 icon"
+                    className="mb-5 xs:mb-0"
+                   />
+                 </p>
               </div>
-
             </motion.div>
           </AnimatePresence>
         </ResizablePanel>
