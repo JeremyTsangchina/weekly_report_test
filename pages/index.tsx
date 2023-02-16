@@ -175,7 +175,7 @@ const Home: NextPage = () => {
                 {t('privacyPolicy1')}
               <a
                 className="text-blue-200 hover:text-blue-400"
-                href="https://github.com/guaguaguaxia/weekly_report/blob/main/privacy.md"
+                href="https://github.com/JeremyTsangchina/weekly_report_test/blob/main/privacy.md"
                 target="_blank"
                 rel="noopener noreferrer"
               >{' '}{t('privacyPolicy2')}</a>
@@ -219,6 +219,19 @@ const Home: NextPage = () => {
                           }),
                         }}
                       ></p>
+
+            <div className="flex mt-10 items-center space-x-3">
+            <Image
+              src="/1-black.png"
+              width={30}
+              height={30}
+              alt="1 icon"
+              className="mb-5 xs:mb-0"
+            />
+            <p className="text-left font-medium">
+              {t('step1')}{" "}
+            </p>
+          </div>
                     </div>
                   </div>
                 </>
