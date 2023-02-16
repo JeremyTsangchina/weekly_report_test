@@ -3,9 +3,9 @@
     "title": "小红书风格模文案拟器",
     "switchLocale": "",
     "deployWiki": "部署自己的网站？",
-    "description1": "小红书风格文案？,
-    "description2": "告诉我你的想法！,
-    "slogan": "我不是人工智能的人工，我是人工智能的智能，来试试吧
+    "description1": "小红书风格文案？",
+    "description2": "告诉我你的想法！",
+    "slogan": "我不是人工智能的人工，我是人工智能的智能，来试试吧",
     "step0": "粘贴你的 OpenAI API Key",
     "openaiApiKeyPlaceholder": "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "step1": " 根据产品特点，生成爆款笔记",
