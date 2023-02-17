@@ -15,7 +15,7 @@ export default function Header() {
         <Image
           alt="header text"
           src="/icon1.png"
-          className="sm:w-12 sm:h-12 w-24 h-8"
+          className="flex mt-1 items-center justify-center text-center space-x-3"
           width={50}
           height={150}
         />
