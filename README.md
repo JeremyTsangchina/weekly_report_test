@@ -1,7 +1,7 @@
-# [Weekly Report](https://xhsai.yobb.top/)
+# [Little Red Book Paperwork](https://xhsai.yobb.top/)
 
 
-The project uses AI to generate Xiaohongshu copywriting for you with simple sentences.
+The project uses AI to generate Little Red Book Paperwork for you with simple sentences.
 
 
 
@@ -29,7 +29,7 @@ NEXT_PUBLIC_USE_USER_KEY = false
 OPENAI_MODEL = text-davinci-003
 
 <!-- https://www.seotraininglondon.org/gpt3-business-email-generator/ -->
-<!-- [![Weekly Report](./public/screenshot.jpg)](https://weeklyreport.avemaria.fun/zh) -->
+<!-- [![Little Red Book Paperwork](./public/screenshot.jpg)](https://xhsai.yobb.top/zh) -->
 
 ## Credits
 
