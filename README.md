@@ -1,7 +1,8 @@
 # [Little Red Book Paperwork](https://xhsai.yobb.top/)
-
+## [中文](README_CN.md)
 
 The project uses AI to generate Little Red Book Paperwork for you with simple sentences.
+[![Little Red Book Paperwork](./public/screenshot.jpg)](https://xhsai.yobb.top/zh)
 
 
 
