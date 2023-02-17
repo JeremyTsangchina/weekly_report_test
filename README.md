@@ -26,6 +26,7 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://vercel.com/new/clone?repository-url=https://github.com/JeremyTsangchina/xhs&env=OPENAI_API_KEY,NEXT_PUBLIC_USE_USER_KEY,OPENAI_MODEL&project-name=weekly_report&repo-name=weekly_report)
 
+OPENAI_API_KEY = xxxx
 NEXT_PUBLIC_USE_USER_KEY = false
 OPENAI_MODEL = text-davinci-003
 
