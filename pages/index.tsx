@@ -99,7 +99,7 @@ const Home: NextPage = () => {
 
       <a
           className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-gray-300 bg-white px-4 py-2 text-sm text-gray-600 shadow-md transition-colors hover:bg-gray-100 mb-5"
-          href="https://github.com/JeremyTsangchina/weeklytest"
+          href="https://github.com/JeremyTsangchina/xhs"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -175,7 +175,7 @@ const Home: NextPage = () => {
                 {t('privacyPolicy1')}
               <a
                 className="text-blue-200 hover:text-blue-400"
-                href="https://github.com/JeremyTsangchina/weekly_report_test/blob/main/privacy.md"
+                href="https://github.com/JeremyTsangchina/xhs/blob/main/privacy.md"
                 target="_blank"
                 rel="noopener noreferrer"
               >{' '}{t('privacyPolicy2')}</a>
