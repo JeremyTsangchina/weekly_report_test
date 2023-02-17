@@ -14,10 +14,10 @@ export default function Header() {
       <Link href="/" className="flex space-x-3">
         <Image
           alt="header text"
-          src="/icon.png"
+          src="/icon1.png"
           className="sm:w-12 sm:h-12 w-8 h-8"
-          width={32}
-          height={32}
+          width={50}
+          height={150}
         />
         <h1 className="sm:text-4xl text-2xl font-bold ml-2 tracking-tight">
           {t('title')}
