@@ -33,6 +33,6 @@ OPENAI_MODEL = text-davinci-003
 
 ## Credits
 
-Inspired by [TwtterBio](https://github.com/Nutlope/twitterbio) and [zhengbangbo](https://github.com/zhengbangbo/chat-simplifier).
+Inspired by [TwtterBio](https://github.com/Nutlope/twitterbio) and [zhengbangbo](https://github.com/zhengbangbo/chat-simplifier). 
 
 
