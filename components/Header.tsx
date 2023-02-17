@@ -10,7 +10,7 @@ export default function Header() {
   const otherLocale = locales?.find((cur) => cur !== locale)
 
   return (
-    <header className="flex justify-between items-center w-full mt-5 border-b-2 pb-7 sm:px-4 px-2">
+    <header className="flex justify-between items-center w-full mt-2 border-b-2 pb-4 sm:px-4 px-2">
       <Link href="/" className="flex space-x-3">
         <Image
           alt="header text"

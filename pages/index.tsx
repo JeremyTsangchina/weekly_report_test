@@ -93,7 +93,7 @@ const Home: NextPage = () => {
       </Head>
 
       <Header />
-      <main className="flex flex-1 w-full flex-col items-center justify-center text-center px-4 mt-12 sm:mt-20">
+      <main className="flex flex-1 w-full flex-col items-center justify-center text-center px-4 mt-12 sm:mt-10">
         
 
 
@@ -228,9 +228,9 @@ const Home: NextPage = () => {
                     {t('step2')}{" "}</p>
               <div className="flex mt-1 items-center justify-center text-center space-x-3">    
                   <Image
-                    src="/QR.png"
-                    width={100}
-                    height={100}
+                    src="/QR1.png"
+                    width={220}
+                    height={134}
                     alt="1 icon"
                     className="mb-5 xs:mb-0"
                    />
