@@ -88,7 +88,6 @@ const Home: NextPage = () => {
   return ( 
     <div className="flex max-w-5xl mx-auto flex-col items-center justify-center py-2 min-h-screen">
       <Head>
-        <title>{t('title')}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -225,7 +224,7 @@ const Home: NextPage = () => {
               )}
             <div>
                 <p className="text-left font-medium items-center justify-center text-center">
-                    {t('step3')}{" "}</p>
+                    {t('step2')}{" "}</p>
               <div className="flex mt-1 items-center justify-center text-center space-x-3">    
                   <Image
                     src="/QR.png"
