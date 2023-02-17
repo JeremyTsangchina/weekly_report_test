@@ -12,7 +12,7 @@
 
 ## 如何运行
 
-clone此repo，去 [OpenAI](https://beta.openai.com/account/api-keys) 注册一个账号，拿到API key，放到`.env`.
+克隆存储库后，去 [OpenAI](https://beta.openai.com/account/api-keys) 注册一个账号，拿到API key，放到`.env`.
 
 然后，在命令行中运行应用程序，它将在 `http://localhost:3000` 处可用。
 
