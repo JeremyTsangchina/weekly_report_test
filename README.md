@@ -1,7 +1,7 @@
-# [Weekly Report](https://weeklyreport.avemaria.fun/)
+# [Weekly Report](https://xhsai.yobb.top/)
 
 
-This project generate weekly report with simple sentence for you using AI.
+The project uses AI to generate Xiaohongshu copywriting for you with simple sentences.
 
 
 

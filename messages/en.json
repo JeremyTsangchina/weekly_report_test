@@ -1,6 +1,6 @@
 {
   "Index": {
-    "title": "小红书风格文案拟器",
+    "title": "红叔文案生成器",
     "switchLocale": "",
     "deployWiki": "部署自己的网站？",
     "description1": "小红书风格文案？",
@@ -10,7 +10,7 @@
     "openaiApiKeyPlaceholder": "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "step1": " 根据产品特点，生成爆款笔记",
     "helpPageLink": "(点击这里查看教程)",
-    "placeholder": "种草、教程、评测类：可简单的描述一些产品功能、亮点、成分、使用感受等\n服务、企业宣传类：服务内容、范围、行业、亮点、优势等\n个人vlog类：简洁的给出基础文案即可\n",
+    "placeholder": "简洁的给出基础文案，例如：生成一份关于饮水机的小红书文案，需要包含产品外观、性能、使用群体等内容\n",
     "step2": "选择输出结果的形式。",
     "simplifierButton": "立即生成",
     "simplifiedContent": "以下內容僅供參考，拿回去自己润色下就更棒了",
@@ -18,12 +18,11 @@
     "privacyPolicy2": " ",
     "paragraphForm": "段落",
     "paragraphFormPrompt": "请你<|start|>与<|end|>之间的内容，帮我拟一份运营文案，需要注意的是，运营文案中需要包含几个关键要素，1、卖点明确的12个字左右的标题；2、结构分明的不少於400个字内容，包含强烈的感染力、个人体验感受，；3、参考同类型“爆文”的描述方式优化\n\n<|start|>",
-    "prompt": " 以上内容用 markdown 格式以用小红书的风格编写，带有 emoji 的运营文案",
+    "prompt": " 以上内容用 markdown 格式以用小红书的风格编写，带有emoji的运营文案",
     "outlineForm": "大纲",
     "outlineFormPrompt": "请你<|start|>与<|end|>之间的内容，帮我拟一份小红书运营文案，需要注意的是，运营文案中需要包含几个关键要素，1、卖点明确的12个字左右的标题；2、内容结构分明，个人体验感、真实度强，不少於400字；3、参考同类型“爆文”的描述方式优化\n\n<|start|>",
     "pasteButton": "粘贴",
     "clearButton": "清空",
     "step3": "🧧有时候服务器不稳定，\n打赏一下增加幸运值🧧",
-    "notice":"因此网站的使用人数以不可思议的速度飙升，作者无力承担随之而来的运营成本，为了能和大家继续交流，可以扫描作者二维码随心的投个币，感谢！"
   }
 }
