@@ -19,9 +19,6 @@ export default function Header() {
           width={50}
           height={150}
         />
-        <h1 className="sm:text-4xl text-2xl font-bold ml-2 tracking-tight">
-          {t('title')}
-        </h1>
       </Link>
       <div className="flex gap-2">
       {
