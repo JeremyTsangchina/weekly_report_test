@@ -8,27 +8,27 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.ico" />
           <meta
             name="description"
-            content="Simplify your chat content in seconds."
+            content="简单输入内容就能生成文案的工具."
           />
-          <meta property="og:site_name" content="Chat Simplifier" />
+          <meta property="og:site_name" content="小紅書運營助手" />
           <meta
             property="og:description"
-            content="Simplify your chat content in seconds."
+            content="小红书风格的文案原来如此简单"
           />
-          <meta property="og:title" content="Chat Simplifier" />
-          <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="Chat Simplifier" />
+          <meta property="og:title" content="小紅書運營助手" />
+          <meta name="twitter:card" content="Little Red Book Paperwork" />
+          <meta name="twitter:title" content="Little Red Book Paperwork" />
           <meta
             name="twitter:description"
             content="Simplify your chat content in seconds."
           />
           <meta
             property="og:image"
-            content="https://chat-simplifier.vercel.app/og-image.png"
+            content="https://xhsai.vercel.app/icon1.png"
           />
           <meta
             name="twitter:image"
-            content="https://chat-simplifier.vercel.app/og-image.png"
+            content="https://xhsai.vercel.app/icon1.png"
           />
         </Head>
         <body>
