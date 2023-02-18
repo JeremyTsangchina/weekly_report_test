@@ -2,8 +2,8 @@
   "Index": {
     "title": "✍红叔文案生成器✍",
     "switchLocale": "",
-    "description1": "快速生成文案",
-    "description2": "文案",
+    "description1": "快速生成小红书文案",
+    "description2": "🤖AI帮你思考，你来补充✍",
     "slogan": "🤖AI帮你思考，你来补充✍",
     "openaiApiKeyPlaceholder": "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "step1": " 根据产品特点，生成爆款笔记",
