@@ -109,10 +109,9 @@ const Home: NextPage = () => {
 
 
         <h1 className="sm:text-7xl text-5xl max-w-2xl font-bold">
-          快速生成{' '}
+          快速生成
           <span className="bg-gradient-to-r from-red-dark to-red-light bg-clip-text text-transparent">
-          小红书
-          </span>文案<br></br>
+          小红书文案</span>
         </h1>
 
 
