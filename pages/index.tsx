@@ -110,14 +110,19 @@ const Home: NextPage = () => {
 
 
         <h1 className="sm:text-6xl text-4xl max-w-2xl font-bold text-slate-900">
-          {t('description1')} <br></br>
+          {t('description1')} 
+               <span className="bg-gradient-to-r from-red-dark to-red-light bg-clip-text text-transparent">小红书
+               </span>
+                  <h1 className="sm:text-6xl text-4xl max-w-2xl font-bold text-slate-900">
+                     {t('description2')} 
+                  </h1>
+                  <br></br>
         </h1>
+        
         <p className="text-slate-500 mt-5">{t('slogan')}</p>
-
         <div className="max-w-xl w-full">
           { useUserKey &&(
             <>
-
               <input
                   value={api_key}
                   onChange={(e) => setAPIKey(e.target.value)}
