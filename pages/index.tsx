@@ -106,23 +106,10 @@ const Home: NextPage = () => {
           <Github />
           <p>Star on GitHub</p>
         </a>
-
-
-        <h1 className="sm:text-7xl text-5xl max-w-2xl font-bold">
-          快速生成
-          <a className="bg-gradient-to-r from-red-dark to-red-light bg-clip-text text-transparent">
-          小红书文案</a>
+        <h1 className="sm:text-6xl text-4xl max-w-2xl font-bold text-slate-900">
+          {t('description1')} 
+          <br></br>
         </h1>
-
-
-
-
-
-
-
-
-
-      
         <p className="text-slate-500 mt-5">{t('slogan')}</p>
 
         <div className="max-w-xl w-full">
