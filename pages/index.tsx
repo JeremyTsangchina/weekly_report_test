@@ -225,7 +225,9 @@ const Home: NextPage = () => {
               )}
             <div>
                 <p className="text-left font-medium items-center justify-center text-center">
-                    {t('step2')}{" "}</p>
+                    {t('step2')}{" "}<br></br>
+                    {t('step3')}{" "}<br></br>
+                    {t('step4')}{" "}</p>
               <div className="flex mt-1 items-center justify-center text-center space-x-3">    
                   <Image
                     src="/QR1.png"
